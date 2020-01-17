@@ -20,6 +20,8 @@ SO THAT I can use it as a starting point for a new project
 
 When joining a new team, you will be expected to inspect a lot of code that you have never seen before. Rather than having a team member explain every line for you, you will dissect the code by yourself, saving any questions for a member of your team.
 
-## Minimum Requirements
 
-* A link to a document or video with instructions on how what each section of code is doing in `Develop/`.
+
+Link
+
+https://docs.google.com/document/d/1UM7vaLTUq_rlLMxPuG_MqUOmo79VSBpfyNGqLJU8Lok/edit
